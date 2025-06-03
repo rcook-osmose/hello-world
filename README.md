@@ -1,3 +1,3 @@
 # hello-world
 First Repo for GitHub Workflow
-Addition of this text was done via ReadMe.md editor.
+This text was added (committed) to the ReadMe via the ReadMe Code Editor. 
